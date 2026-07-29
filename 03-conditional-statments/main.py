@@ -1,5 +1,6 @@
 print(" ")
 
+# Certificate
 
 name =input("please enter your name : ")
 
@@ -9,7 +10,7 @@ age = int(input("please enter your age : "))
 
 print(" ")
 
-
+#if your age is under 18 you can not continue 
 if age >= 18:
 
     midterm = int(input("please input your midterm : "))
